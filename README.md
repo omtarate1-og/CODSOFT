@@ -1,4 +1,3 @@
-“ id=“73185”}
 
 CODSOFT Python Programming Internship
 
