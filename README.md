@@ -1,30 +1,50 @@
-# Python Calculator
+“ id=“73185”}
 
-A simple calculator application built using Python. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+CODSOFT Python Programming Internship
 
-## Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
-- User-friendly input
-- Division by zero handling
+This repository contains the projects completed as part of the CODSOFT Python Programming Internship.
 
-## Technologies Used
-- Python
+Task 1: Calculator
 
-## How to Run
-1. Download or clone the repository.
-2. Open the project in Python.
-3. Run the script.
-4. Enter two numbers and select an operator.
+A simple calculator application built using Python that performs basic arithmetic operations.
 
-## Example
+Features
 
-Enter first number: 10
-Enter operator (+, -, *, /): *
-Enter second number: 5
-Result = 50.0
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Error handling for division by zero
 
-## Author
+Task 2: To-Do List
+
+A command-line To-Do List application developed using Python. This application helps users manage and organize their daily tasks efficiently.
+
+Features
+
+* Add Tasks
+* View Tasks
+* Update Tasks
+* Delete Tasks
+
+Task 3: Password Generator
+
+A Python application that generates strong and random passwords based on the user’s desired password length.
+
+Features
+
+* User-defined password length
+* Random password generation
+* Includes letters, numbers, and special characters
+
+Technologies Used
+
+* Python
+
+Author
+
 Om Tarate
+
+Internship
+
+CODSOFT Python Programmi
